@@ -1,3 +1,5 @@
 
 
 *.jar -crlf -diff -merge
+*.zip -crlf -diff -merge
+*.7z -crlf -diff -merge
